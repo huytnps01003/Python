@@ -27,6 +27,7 @@ from tkinter import ttk
 import subprocess
 import shutil # Thêm import này cho shutil.which
 import traceback # Thêm import này cho traceback.format_exc()
+from data import config, logger, adb_utils, pixel_utils, board_state, ai, experience, gui_components, auto_loop
 
 # --- KHAI BÁO BIẾN TOÀN CỤC CHO TRẠNG THÁI VÀ THIẾT BỊ ---
 adb_device = None
