@@ -1,5 +1,0 @@
-opencv-python
-pillow
-pure-python-adb
-numpy
-uiautomator2 
