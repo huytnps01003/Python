@@ -1,0 +1,6 @@
+opencv-python
+pillow
+tk
+pure-python-adb
+numpy
+uiautomator2
